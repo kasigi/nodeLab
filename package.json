@@ -14,5 +14,10 @@
   "license": "BSD-2-Clause",
   "bugs": {
     "url": "https://github.com/kasigi/nodeLab/issues"
+  },
+  "dependencies": {
+    "express": "~4.13.4",
+    "jquery": "~2.2.2",
+    "jsdom": "~8.1.0"
   }
 }
